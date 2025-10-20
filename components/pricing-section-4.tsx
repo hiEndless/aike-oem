@@ -75,8 +75,8 @@ const pricingData = {
         },
       ],
       pricing: {
-        monthly: 40,
-        annually: 432,
+        monthly: '登录可看',
+        annually: '登录可看',
       },
       variant: "default",
     },
@@ -106,8 +106,8 @@ const pricingData = {
         },
       ],
       pricing: {
-        monthly: 9999,
-        annually: 9999,
+        monthly: '联系客服',
+        annually: '联系客服',
       },
       variant: "secondary",
     },

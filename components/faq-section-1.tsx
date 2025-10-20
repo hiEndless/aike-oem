@@ -72,14 +72,14 @@ export function FaqSection1() {
           <div className="flex flex-col items-center gap-3 text-center">
             <div className="flex flex-col gap-2">
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
-                <span className="font-medium">邮箱：</span>
-                <a href="mailto:demo@demo.lichaoyuan.com" className="text-primary hover:underline">
-                  demo@demo.lichaoyuan.com
+                <span className="font-medium">Q群：</span>
+                <a className="text-foreground">
+                  537777406
                 </a>
               </div>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <span className="font-medium">微信：</span>
-                <span className="text-foreground">lichaoyuan</span>
+                <span className="text-foreground">BTC5767</span>
               </div>
             </div>
           </div>

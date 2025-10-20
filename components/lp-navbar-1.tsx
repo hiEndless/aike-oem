@@ -54,7 +54,7 @@ export function LpNavbar1() {
         {/* Desktop Navigation */}
         <div className="hidden md:flex flex-row gap-5 w-full justify-end">
           <NavMenuItems />
-          <Link href="https://pc.lichaoyuan.com/login">
+          <Link href="https://pc.btc809.com/login">
             <Button>注册 / 登录</Button>
           </Link>
         </div>
@@ -63,7 +63,7 @@ export function LpNavbar1() {
         {isMenuOpen && (
           <div className="md:hidden flex flex-col gap-5 w-full justify-end pb-2.5">
             <NavMenuItems />
-            <Link href="https://app.lichaoyuan.com/agent-login">
+            <Link href="https://app.btc809.com/agent-login">
               <Button className="w-full">注册 / 登录</Button>
             </Link>
           </div>

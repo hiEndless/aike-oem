@@ -48,7 +48,7 @@ export function Footer2() {
             <p className="text-muted-foreground order-2 md:order-1 text-sm sm:text-base leading-relaxed">
               <span>Built with ❤️ by</span>{" "}
               <Link href="https://www.shadcndesign.com/pro-blocks" target="_blank" className="underline hover:text-foreground transition-colors">
-                demo.lichaoyuan.com
+                带单小镇
               </Link>
             </p>
 

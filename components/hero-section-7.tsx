@@ -9,7 +9,7 @@ import { useIsMobile } from "@/hooks/use-mobile"
 
 export function HeroSection7() {
   const isMobile = useIsMobile()
-  const loginUrl = isMobile ? "https://app.lichaoyuan.com/agent-login" : "https://pc.lichaoyuan.com/login"
+  const loginUrl = isMobile ? "https://app.btc809.com/agent-login" : "https://pc.btc809.com/login"
   
   return (
     <section className="bg-muted pattern-1 py-16 lg:py-24" aria-labelledby="hero-heading">
@@ -17,9 +17,9 @@ export function HeroSection7() {
         <div className="flex gap-12 lg:gap-16">
           <div className="flex flex-col lg:flex-row gap-4 md:gap-6 lg:gap-8">
             <h1 id="hero-heading" className="text-foreground text-3xl lg:text-5xl font-bold flex-1">
-              让全球顶级交易员
+              全收益跟单
               <br/>
-              <span className="text-primary">为你打工！</span>
+              <span className="text-primary">别人的策略，你的利润！</span>
             </h1>
             <div className="flex-1 w-full flex flex-col gap-8">
               <p className="text-muted-foreground text-base lg:text-lg">

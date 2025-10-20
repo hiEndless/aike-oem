@@ -8,9 +8,9 @@ export function Logo() {
         alt="logo"
         width={24}
         height={24}
-        className="w-6 h-6"
+        className="w-10 h-10"
       />
-      <span className="text-lg font-semibold text-current" style={{ width: '100px' }}>跟单小镇</span>
+      <span className="text-lg font-semibold text-current" style={{ width: '100px' }}>带单小镇</span>
     </div>
   )
 }

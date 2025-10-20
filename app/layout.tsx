@@ -10,19 +10,19 @@ const onest = Onest({
 })
 
 export const metadata: Metadata = {
-  title: "跟单小镇",
+  title: "带单小镇",
   description:
-    "跟单小镇",
+    "带单小镇",
   keywords: "",
-  authors: [{ name: "跟单小镇" }],
+  authors: [{ name: "带单小镇" }],
   robots: "index, follow",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://btc809.com",
-    title: "跟单小镇",
-    description: "跟单小镇",
-    siteName: "跟单小镇",
+    title: "带单小镇",
+    description: "带单小镇",
+    siteName: "带单小镇",
   },
   twitter: {
     card: "summary_large_image",
