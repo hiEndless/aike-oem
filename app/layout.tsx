@@ -24,11 +24,6 @@ export const metadata: Metadata = {
     description: "带单小镇",
     siteName: "带单小镇",
   },
-  twitter: {
-    card: "summary_large_image",
-    title: "Flowly - Automated Workflow Solutions",
-    description: "Streamline your team's workflow with Flowly's powerful automation tools.",
-  },
   icons: {
     icon: "/favicon.ico",
     apple: "/apple-icon.png",

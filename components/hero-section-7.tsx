@@ -43,7 +43,7 @@ export function HeroSection7() {
             <Image
               // src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hero%20image-BfDDyqA7gEJi5nCcYfKEbZOJR8pYrr.png"
               src="bg-1.png"
-              alt="Flowly dashboard interface showing order statistics and revenue metrics"
+              alt=""
               fill
               priority
               className="object-cover"

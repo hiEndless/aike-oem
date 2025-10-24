@@ -56,7 +56,7 @@ export function FeatureSection3() {
               <Image
                 // src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/getting%20started%20image-d24HhYcHO1wR0mZiMSHMOHz2Z0YrDn.png"
                 src="/bg-2.png"
-                alt="Flowly dashboard showing detailed order management interface"
+                alt=""
                 fill
                 className="object-cover"
               />
